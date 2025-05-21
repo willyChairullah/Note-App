@@ -1,0 +1,190 @@
+{
+  "categories": [
+    {
+      "id": "cat-001",
+      "name": "all-notes",
+      "notes": [
+        "note-001",
+        "note-002",
+        "note-003",
+        "note-004",
+        "note-005",
+        "note-006",
+        "note-007",
+        "note-008",
+        "note-009",
+        "note-010"
+      ]
+    },
+    {
+      "id": "cat-002",
+      "name": "important",
+      "notes": [
+        "note-001",
+        "note-005",
+        "note-008"
+      ]
+    },
+    {
+      "id": "cat-003",
+      "name": "archive",
+      "notes": [
+        "note-004",
+        "note-007"
+      ]
+    }
+  ],
+  "notes": [
+    {
+      "id": "note-001",
+      "title": "Catat",
+      "timestamp": "2024-05-10T10:30:00Z",
+      "snippet": "Minggu ini saya melakukan beberapa kegiatan penting yang perlu dicatat...",
+      "content": "<h1>Semua ini dong</h1><p>Hari ini saya melakukan beberapa kegiatan penting yang perlu dicatat. Mulai dari pagi hingga sore, banyak hal menarik yang terjadi... Catatan ini berisi refleksi personal dan pemikiran yang ingin saya simpan untuk kenangan dan pembelajaran di masa depan.</p>",
+      "tags": [
+        "catatan harian",
+        "personal"
+      ],
+      "categoryIds": [
+        "cat-001",
+        "cat-002"
+      ]
+    },
+    {
+      "id": "note-002",
+      "title": "Tugas Kuliah - Riset Pasar",
+      "timestamp": "2024-05-09T15:00:00Z",
+      "snippet": "Daftar tugas minggu ini yang harus diselesaikan untuk mata kuliah Manajemen Pemasaran...",
+      "content": "Daftar tugas minggu ini yang harus diselesaikan untuk mata kuliah Manajemen Pemasaran adalah melakukan riset pasar untuk produk baru. Kumpulkan data primer dan sekunder, analisis kompetitor, dan buat laporan ringkas.",
+      "tags": [
+        "tugas kuliah",
+        "riset"
+      ],
+      "categoryIds": [
+        "cat-001"
+      ]
+    },
+    {
+      "id": "note-003",
+      "title": "Ide Proyek Pribadi",
+      "timestamp": "2024-05-11T08:15:00Z",
+      "snippet": "Beberapa ide untuk proyek pengembangan aplikasi mobile...",
+      "content": "Beberapa ide untuk proyek pengembangan aplikasi mobile:\n1. Aplikasi tracker kebiasaan dengan gamifikasi.\n2. Aplikasi resep masakan berdasarkan bahan yang ada.\n3. Platform belajar bahasa asing dengan AI.",
+      "tags": [
+        "proyek",
+        "ide",
+        "pengembangan"
+      ],
+      "categoryIds": [
+        "cat-001"
+      ]
+    },
+    {
+      "id": "note-004",
+      "title": "Arsip Proyek Website Klien X",
+      "timestamp": "2024-04-20T17:00:00Z",
+      "snippet": "Dokumentasi proyek lama yang perlu disimpan sebagai referensi...",
+      "content": "<p>Dokumentasi lengkap untuk proyek pembuatan website Klien X. Termasuk desain awal, aset grafis, kode sumber, dan catatan revisi.</p><p><br></p><h1>ftetertfaf</h1>",
+      "tags": [
+        "arsip proyek",
+        "website",
+        "klien"
+      ],
+      "categoryIds": [
+        "cat-001",
+        "cat-003"
+      ]
+    },
+    {
+      "id": "note-005",
+      "title": "Rencana Liburan Akhir Tahun",
+      "timestamp": "2024-05-12T11:00:00Z",
+      "snippet": "Destinasi potensial dan perkiraan anggaran untuk liburan...",
+      "content": "Rencana awal untuk liburan akhir tahun:\n- Destinasi: Jepang atau Korea Selatan.\n- Durasi: 7-10 hari.\n- Perkiraan Anggaran: Rp 20.000.000 - Rp 30.000.000.\n- Aktivitas: Kunjungan budaya, kuliner, alam.",
+      "tags": [
+        "liburan",
+        "rencana",
+        "penting"
+      ],
+      "categoryIds": [
+        "cat-001",
+        "cat-002"
+      ]
+    },
+    {
+      "id": "note-006",
+      "title": "Resep Nasi Goreng Spesial",
+      "timestamp": "2024-05-08T19:45:00Z",
+      "snippet": "Cara membuat nasi goreng spesial ala rumahan...",
+      "content": "Bahan-bahan:\n- Nasi putih\n- Bawang merah, bawang putih\n- Telur\n- Kecap manis, saus tiram\n- Ayam suwir, udang (opsional)\n\nCara membuat: Tumis bumbu hingga harum, masukkan telur, orak-arik. Masukkan nasi dan bahan lainnya, aduk rata. Sajikan selagi hangat.",
+      "tags": [
+        "resep",
+        "masakan"
+      ],
+      "categoryIds": [
+        "cat-001"
+      ]
+    },
+    {
+      "id": "note-007",
+      "title": "Notulensi Rapat Tim Marketing",
+      "timestamp": "2024-04-15T14:30:00Z",
+      "snippet": "Poin-poin penting dari rapat strategi marketing bulan lalu...",
+      "content": "Rapat Tim Marketing - 15 April 2024\n\nPembahasan:\n1. Evaluasi kampanye Q1.\n2. Perencanaan strategi Q2.\n3. Pembagian tugas dan target.\n\nTindak Lanjut: Masing-masing PIC menyiapkan detail plan.",
+      "tags": [
+        "rapat",
+        "marketing",
+        "arsip"
+      ],
+      "categoryIds": [
+        "cat-001",
+        "cat-003"
+      ]
+    },
+    {
+      "id": "note-008",
+      "title": "Daftar Film yang Ingin Ditonton",
+      "timestamp": "2024-05-11T21:00:00Z",
+      "snippet": "Kumpulan film berbagai genre yang masuk watchlist...",
+      "content": "Film Watchlist:\n- Oppenheimer\n- Dune: Part Two\n- Poor Things\n- The Holdovers\n- Past Lives",
+      "tags": [
+        "film",
+        "hiburan",
+        "penting"
+      ],
+      "categoryIds": [
+        "cat-001",
+        "cat-002"
+      ]
+    },
+    {
+      "id": "note-009",
+      "title": "Kontak Penting Darurat",
+      "timestamp": "2024-01-01T00:00:00Z",
+      "snippet": "Nomor telepon penting untuk situasi darurat...",
+      "content": "Kontak Darurat:\n- Polisi: 110\n- Ambulans: 118/119\n- Pemadam Kebakaran: 113\n- Keluarga Dekat: [Nomor Telepon]",
+      "tags": [
+        "darurat",
+        "kontak"
+      ],
+      "categoryIds": [
+        "cat-001"
+      ]
+    },
+    {
+      "id": "note-010",
+      "title": "Belajar Bahasa Pemrograman Baru",
+      "timestamp": "2024-05-07T16:20:00Z",
+      "snippet": "Rencana belajar Python untuk analisis data...",
+      "content": "Target: Menguasai dasar-dasar Python dalam 1 bulan.\nSumber Belajar:\n- Online course (Coursera, Udemy)\n- Dokumentasi resmi Python\n- Proyek-proyek kecil untuk latihan.",
+      "tags": [
+        "belajar",
+        "pemrograman",
+        "python"
+      ],
+      "categoryIds": [
+        "cat-001"
+      ]
+    }
+  ]
+}

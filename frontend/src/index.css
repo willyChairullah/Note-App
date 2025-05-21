@@ -1,0 +1,30 @@
+@import "tailwindcss";
+
+:root {
+  --bg-primary: #FFFFFF;
+  --bg-secondary: #F9FAFB; /* contoh: bg-gray-50 */
+  --bg-tertiary: #F3F4F6;  /* contoh: bg-gray-100 dari body Anda */
+  --text-primary: #1F2937; /* contoh: text-gray-900 */
+  --text-secondary: #6B7280; /* contoh: text-gray-500 */
+  --border-color: #E5E7EB; /* contoh: border-gray-200 */
+  --accent-color: #3B82F6; /* contoh: biru */
+  /* Tambahkan variabel lain jika perlu */
+}
+
+/* Contoh definisi untuk tema gelap (akan diaktifkan via JavaScript nanti) */
+.theme-dark {
+  --bg-primary: #1F2937; /* bg-gray-800 */
+  --bg-secondary: #374151; /* bg-gray-700 */
+  --bg-tertiary: #111827; /* bg-gray-900 */
+  --text-primary: #F9FAFB; /* text-gray-50 */
+  --text-secondary: #9CA3AF; /* text-gray-400 */
+  --border-color: #4B5563; /* border-gray-600 */
+  --accent-color: #60A5FA; /* biru lebih terang */
+}
+/* Anda bisa menambahkan lebih banyak tema di sini: .theme-blue, .theme-green, dll. */
+
+body {
+  background-color: var(--bg-tertiary); /* Gunakan variabel CSS untuk body */
+  color: var(--text-primary);
+  transition: background-color 0.2s, color 0.2s; /* Transisi dari HTML Anda */
+}
